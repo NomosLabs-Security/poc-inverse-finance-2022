@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Inverse Finance TWAP oracle manipulation — one block before attack
+fork_block_number = 14506359
